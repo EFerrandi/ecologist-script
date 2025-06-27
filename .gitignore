@@ -192,3 +192,17 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+pip
+install
+ecologits[google-generativeai]
+
+bin/
+lib/
+lib64/
+pip/
+install/
+ecologits[google-generativeai]/
+
+gemini_environmental_impact.csv
