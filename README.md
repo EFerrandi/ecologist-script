@@ -1,10 +1,10 @@
-# Ecologist Script
+# Ecologits Script
 
-This is a script made to use the Ecologist's python lib with Google AI APIs.
+This is a script made to use the Ecologits's python lib with Google AI APIs.
 
 ## Table of Contents
 
-- [Ecologist Script](#ecologist-script)
+- [Ecologits Script](#ecologits-script)
   - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -14,7 +14,7 @@ This is a script made to use the Ecologist's python lib with Google AI APIs.
 
 To run this project, you will need the following:
 
-* **Ecologist**: This project relies on [Ecologist](https://ecologits.ai/latest/) for its core functionality. Please ensure you have the `latest` version installed.
+* **Ecologits**: This project relies on [Ecologits](https://ecologits.ai/latest/) for its core functionality. Please ensure you have the `latest` version installed.
 * **Google API Access**: Ecologist requires integration with Google API. Make sure you have the necessary API keys and credentials configured for Ecologist to function correctly.
 
 ## Installation
@@ -22,8 +22,8 @@ To run this project, you will need the following:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/EFerrandi/ecologist-script](https://github.com/EFerrandi/ecologist-script)
-    cd ecologist-script
+    git clone [https://github.com/EFerrandi/ecologits-script](https://github.com/EFerrandi/ecologits-script)
+    cd ecologits-script
     ```
 
 2.  **Activate the virtual environment:**
@@ -48,9 +48,9 @@ Once the prerequisites are met and the project is installed, you can run it usin
 2.  **Run the project:**
 
     ```bash
-    python3 ecologist.py
+    python3 ecologits-script.py
     ```
     or
     ```bash
-    ./ecologist.py
+    ./ecologits-script.py
     ```
